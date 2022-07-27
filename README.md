@@ -1,5 +1,5 @@
 # Dev-Tools-UI
-This UI is made to help script developers make their scripts without alt tabbing out into their executor
+This UI is made to help script developers make their scripts without alt tabbing out into their executor. (Scroll down for screenshots and more details)
 
 # Paste
 Copy the script here:
@@ -15,4 +15,16 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GemstoneDev/Dev-Tools
 ```
 
 # Features
-The UI has some very important
+The UI has some very important features.
+
+<ul>Decompilers<ul>
+<ul>Remote Spys<ul>
+<ul>Infinite Yield<ul>
+<ul>Rejoin Server<ul>
+
+# Decompilers
+-Dark Dex
+-Save Instance (SYNAPSE ONLY)
+-Script Dumper
+
+# Remote Spies
