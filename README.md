@@ -24,8 +24,20 @@ The UI has some very important features.
 </ul>
   
 # Decompilers
--Dark Dex
--Save Instance (SYNAPSE ONLY)
--Script Dumper
+<ul>
+<p>-Dark Dex</p>
+<p>-Save Instance (SYNAPSE ONLY)</p>
+<p>-Script Dumper</p>
+</ul>
 
 # Remote Spies
+<ul>
+<p>SimpleSpy V1</p>
+<p>SimpleSpy V2</p>
+<p>Hydroxide</p>
+<p>Mr. Spy V2</p>
+</ul>
+
+# Screenshots
+
+![Screenshot 1](https://user-images.githubusercontent.com/80566162/181160544-bf8e6954-198e-4d86-b261-1713fbd58105.png)
