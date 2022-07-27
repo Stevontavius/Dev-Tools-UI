@@ -10,7 +10,7 @@ local DevToolWindow = library:CreateWindow("Dev Tools")
 
 local DecompilerFolder = DevToolWindow:CreateFolder("Decompilers")
 
-local RemoteSpyFolder = DevToolWindow:CreateFolder("Remote Spys")
+local RemoteSpyFolder = DevToolWindow:CreateFolder("Remote Spies")
 
 local InfYieldFolder = DevToolWindow:CreateFolder("Inf Yield")
 
