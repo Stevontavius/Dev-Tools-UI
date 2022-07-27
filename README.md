@@ -17,10 +17,10 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GemstoneDev/Dev-Tools
 # Features
 The UI has some very important features.
 
--Decompilers
--Remote Spys<ul>
--Infinite Yield
---Rejoin Server
+<p>-Decompilers</p>
+<p>-Remote Spys</p>
+<p>-Infinite Yield</p>
+<p>-Rejoin Server</p>
 
 # Decompilers
 -Dark Dex
