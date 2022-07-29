@@ -81,6 +81,8 @@ end)
 
 GuiUtil:Button("Rejoin Server",function()
     game.TeleportService:Teleport(game.PlaceId, game.Players.LocalPlayer)
+    wait(3)
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/GemstoneDev/Dev-Tools-UI/main/script/Dev-Tools.lua'))()
 end)
 
 GuiUtil:DestroyGui()
