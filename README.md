@@ -17,6 +17,9 @@ Copy the script here:
 --Script:
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GemstoneDev/Dev-Tools-UI/main/script/Dev-Tools.lua'))()
 ```
+# Synapse V3 
+Using any remote spies in Synapse V3 will kinda break the game LOL
+
 
 # Features
 The UI has some very important features.

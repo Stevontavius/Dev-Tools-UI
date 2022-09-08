@@ -2,6 +2,11 @@
 --This DevTools Script Hub will allow you to get started making amazing script for games!
 --This was made by GemstoneDev
 
+game.StarterGui:SetCore("SendNotification", {
+    Title = "WARNING";
+    Text = "If you are using Synapse X V3. DO NOT use any remote spies as it will break the game.";
+})
+
 _G.ButtonColor = Color3.fromRGB(0, 110, 255)
 
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/GemstoneDev/Wally-V3-Backup/main/script/main.lua')))()
