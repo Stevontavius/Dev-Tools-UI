@@ -85,6 +85,11 @@ InfYieldFolder:Button("Infinite Yield",function()
 end)
 
 GuiUtil:Button("Get Functions from Garbage Collector",function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "Dev Tools";
+        Text = "Don't close the second window.";
+        Duration = "25";
+    })
     for i, v in pairs(getgc()) do
         if type(v) == 'function' and not is_synapse_function(v) and getinfo(v).name then
             rconsolwarn(getinfo(v).name)
