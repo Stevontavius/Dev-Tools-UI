@@ -85,16 +85,16 @@ InfYieldFolder:Button("Infinite Yield",function()
 end)
 
 GuiUtil:Button("Funcs from GC",function()
-    game.StarterGui:SetCore("SendNotification", {
-        Title = "Dev Tools";
-        Text = "Don't close the second window.";
-        Duration = "25";
-    })
     for i, v in pairs(getgc()) do
         if type(v) == 'function' and not is_synapse_function(v) and getinfo(v).name then
             rconsolwarn(getinfo(v).name)
         end
     end
+     game.StarterGui:SetCore("SendNotification", {
+        Title = "Dev Tools";
+        Text = "Don't close the second window.";
+        Duration = "25";
+    })
 end)
 
 GuiUtil:Button("Rejoin Server",function()
