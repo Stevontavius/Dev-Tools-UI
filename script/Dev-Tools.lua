@@ -84,7 +84,7 @@ InfYieldFolder:Button("Infinite Yield",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-GuiUtil:Button("Get Functions from Garbage Collector",function()
+GuiUtil:Button("Funcs from GC",function()
     game.StarterGui:SetCore("SendNotification", {
         Title = "Dev Tools";
         Text = "Don't close the second window.";
