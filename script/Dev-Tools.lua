@@ -84,7 +84,21 @@ InfYieldFolder:Button("Infinite Yield",function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
+GuiUtil:Button("Get Functions from Garbage Collector",function()
+    for i, v in pairs(getgc()) do
+        if type(v) == 'function' and not is_synapse_function(v) and getinfo(v).name
+            rconsolwarn(getinfo(v).name)
+        end
+    end
+end)
+
 GuiUtil:Button("Rejoin Server",function()
+   game.StarterGui:SetCore("SendNotification", {
+        Title = "Dev Tools";
+        Text = "Upon rejoining, you do not need to execute the script again.";
+        Duration = "25";
+    })
+    wait(3)
     game.TeleportService:Teleport(game.PlaceId, game.Players.LocalPlayer)
     wait(3)
     loadstring(game:HttpGet('https://raw.githubusercontent.com/GemstoneDev/Dev-Tools-UI/main/script/Dev-Tools.lua'))()
