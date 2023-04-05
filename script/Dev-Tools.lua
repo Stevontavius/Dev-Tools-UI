@@ -86,7 +86,7 @@ end)
 
 GuiUtil:Button("Get Functions from Garbage Collector",function()
     for i, v in pairs(getgc()) do
-        if type(v) == 'function' and not is_synapse_function(v) and getinfo(v).name
+        if type(v) == 'function' and not is_synapse_function(v) and getinfo(v).name then
             rconsolwarn(getinfo(v).name)
         end
     end
