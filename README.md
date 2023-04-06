@@ -3,7 +3,6 @@ This UI is made to help script developers make their scripts without alt tabbing
 
 The garbage colletor button is broken I know, I will fix it when I feel like it. For now, just copy and paste it from the button in the source code! Thanks skids!
 
-![Untitled-1](https://user-images.githubusercontent.com/80566162/181161889-ff663efb-d018-4741-be7d-e3c3556bad5c.png)
 
 (Scroll down for screenshots and more details)
 
