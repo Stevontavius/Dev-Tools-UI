@@ -16,7 +16,7 @@ Copy the script here:
 
 
 --Script:
-loadstring(game:HttpGet('https://raw.githubusercontent.com/GemstoneDev/Dev-Tools-UI/main/script/Dev-Tools.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Stevontavius/Dev-Tools-UI/main/script/Dev-Tools.lua'))()
 ```
 # Synapse V3 
 Using any remote spies in Synapse V3 will kinda break the game LOL
