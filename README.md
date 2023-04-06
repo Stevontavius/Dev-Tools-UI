@@ -25,28 +25,22 @@ Using any remote spies in Synapse V3 will kinda break the game LOL
 
 # Features
 The UI has some very important features.
-<ul>
-<p>- Decompilers</p>
-<p>- Remote Spys</p>
-<p>- Infinite Yield</p>
-<p>- Rejoin Server</p>
-<p>- Fetching Garbage Collecter Functions</p>
-</ul>
+- Decompilers
+- Remote Spys
+- Infinite Yield
+- Rejoin Server
+- Fetching Garbage Collecter Functions
   
 # Decompilers
-<ul>
-<p>- Dark Dex</p>
-<p>- Save Instance (SYNAPSE ONLY)</p>
-<p>- Script Dumper</p>
-</ul>
+- Dark Dex
+- Save Instance (SYNAPSE ONLY)
+- Script Dumper
 
 # Remote Spies
-<ul>
-<p>- SimpleSpy V1</p>
-<p>- SimpleSpy V2</p>
-<p>- Hydroxide</p>
-<p>- Mr. Spy V2</p>
-</ul>
+- SimpleSpy V1
+- SimpleSpy V2
+- Hydroxide
+- Mr. Spy V2
 
 # Screenshots
 
