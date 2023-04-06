@@ -1,6 +1,8 @@
 # Dev-Tools-UI
 This UI is made to help script developers make their scripts without alt tabbing out into their executor. 
 
+The garbage colletor button is broken I know, I will fix it when I feel like it. For now, just copy and paste it from the button in the source code! Thanks skids!
+
 ![Untitled-1](https://user-images.githubusercontent.com/80566162/181161889-ff663efb-d018-4741-be7d-e3c3556bad5c.png)
 
 (Scroll down for screenshots and more details)
@@ -24,25 +26,26 @@ Using any remote spies in Synapse V3 will kinda break the game LOL
 # Features
 The UI has some very important features.
 <ul>
-<p>-Decompilers</p>
-<p>-Remote Spys</p>
-<p>-Infinite Yield</p>
-<p>-Rejoin Server</p>
+<p>- Decompilers</p>
+<p>- Remote Spys</p>
+<p>- Infinite Yield</p>
+<p>- Rejoin Server</p>
+<p>- Fetching Garbage Collecter Functions</p>
 </ul>
   
 # Decompilers
 <ul>
-<p>-Dark Dex</p>
-<p>-Save Instance (SYNAPSE ONLY)</p>
-<p>-Script Dumper</p>
+<p>- Dark Dex</p>
+<p>- Save Instance (SYNAPSE ONLY)</p>
+<p>- Script Dumper</p>
 </ul>
 
 # Remote Spies
 <ul>
-<p>SimpleSpy V1</p>
-<p>SimpleSpy V2</p>
-<p>Hydroxide</p>
-<p>Mr. Spy V2</p>
+<p>- SimpleSpy V1</p>
+<p>- SimpleSpy V2</p>
+<p>- Hydroxide</p>
+<p>- Mr. Spy V2</p>
 </ul>
 
 # Screenshots
